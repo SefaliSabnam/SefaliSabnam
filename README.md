@@ -1,4 +1,4 @@
-## Hi My nameis Sefali Sharon Sabnam 👋
+## Hi My name is Sefali Sharon Sabnam 👋
 
 <!--
 **SefaliSabnam/SefaliSabnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
