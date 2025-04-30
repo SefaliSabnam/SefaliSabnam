@@ -38,20 +38,37 @@ Additionally, I bring **1 year of experience in software testing**, leveraging *
 ## ⚙️ Tech Stack & Tools
 
 ### ☁️ Cloud & DevOps
-- **AWS (EC2, S3, RDS, IAM, VPC, CloudWatch)**  
-- **Kubernetes**, **AWS EKS**, **Helm**, **Docker**, **Terraform**, **Ansible**  
-- **Jenkins**, **GitHub**, **CI/CD**, **Linux (Red Hat)**  
+![AWS](https://img.shields.io/badge/AWS-EC2%2FS3%2FRDS%2FIAM%2FVPC%2FCloudWatch-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0f1689?style=for-the-badge&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Red%20Hat-black?style=for-the-badge&logo=redhat&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
 
 ### 🛠️ Programming & Automation
-- **Shell Scripting**  
-- **Python**  
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-yellow?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
 
 ### 🧪 Testing & Agile
-- **Selenium**, **TestNG**, **Cucumber**, **JIRA**, **Agile Methodology**
+![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-ff7f50?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-23d96c?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052cc?style=for-the-badge&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20Methodology-29b6f6?style=for-the-badge)
+
+---
 
 ### 📈 Monitoring & Observability
-- **Prometheus**  
-- **Grafana**
+![Prometheus](https://img.shields.io/badge/Prometheus-e6522c?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-f46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
