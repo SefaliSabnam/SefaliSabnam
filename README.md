@@ -76,9 +76,9 @@ Additionally, I bring **1 year of experience in software testing**, leveraging *
 
 - Architected and deployed secure, scalable **AWS infrastructure** across multiple environments  
 - Built and maintained automated **CI/CD pipelines** using Jenkins and GitHub Actions  
-- Deployed and managed **Kubernetes clusters** using **Helm** and **EKS**  
+- Deployed and managed **Kubernetes clusters** using **Helm** and **EKS**  and **MINIKUBE**
 - Implemented centralized logging and monitoring with **Prometheus** and **Grafana**  
-- Delivered high-quality releases by integrating **automated testing** into DevOps workflows  
+- Delivered high-quality releases by integrating **Automated Testing** into DevOps workflows  
 
 ---
 
