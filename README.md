@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnk5cXQyYnFncnN6bm9sOHFqY25zc2NlZ2dtOXRwamV0eDkyZWJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Cool Hacker GIF">
 </p>
-###
-#Hey, I'm *Sefali Sharon Sabnam*..!!
 
-# 👨‍💻 Senior AWS DevOps & Cloud Engineer
+# 👋 Hey, I'm *Sefali Sharon Sabnam*..!!
+
+## 👨‍💻 Senior AWS DevOps & Cloud Engineer
 
 DevOps and Cloud Professional with over **6 years of experience** in architecting, automating, and optimizing cloud infrastructure to support fast-paced, high-performance development environments. Proven expertise in designing **scalable systems on AWS** and automating deployments using **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**.
 
@@ -17,25 +17,25 @@ Additionally, I bring **1 year of experience in software testing**, leveraging *
 ## 🧑‍💼 Professional Experience
 
 ### 🔹 Senior AWS DevOps Engineer  
-**VSM INFOTECH PRIVATE LTD** (Dec 2023 – Present) · *Bengaluru, India · Hybrid*  
+**VSM INFOTECH PRIVATE LTD** *(Dec 2023 – Present · Bengaluru, India · Hybrid)*  
 - Managing cloud infrastructure using AWS services  
 - Automating deployments using Terraform and Jenkins  
 - Monitoring with Prometheus and Grafana  
 - Working on container orchestration using Kubernetes and Helm  
 
 ### 🔹 Cloud Development Engineer  
-**Concentrix** (May 2022 – Dec 2023) · *Bengaluru, India · On-site*  
+**Concentrix** *(May 2022 – Dec 2023 · Bengaluru, India · On-site)*  
 - Delivered cloud-native solutions using AWS and CloudWatch  
 - Developed CI/CD pipelines for high-availability applications  
 - Supported scalable deployments using Docker and Terraform  
 
 ### 🔹 Associate DevOps Engineer  
-**RJ Winsys Technologies Pvt Ltd** (Nov 2019 – May 2022) · *Bengaluru, India · Hybrid*  
+**RJ Winsys Technologies Pvt Ltd** *(Nov 2019 – May 2022 · Bengaluru, India · Hybrid)*  
 - Worked with Amazon VPC, EC2, and CloudWatch  
 - Developed IaC using Terraform and managed automated testing environments  
 
 ### 🔹 Software Test Engineer  
-**RJ Winsys Technologies Pvt Ltd** (Nov 2018 – Nov 2019) · *On-site*  
+**RJ Winsys Technologies Pvt Ltd** *(Nov 2018 – Nov 2019 · On-site)*  
 - Performed test automation using Selenium and TestNG  
 - Conducted functional and regression testing within Agile teams  
 
@@ -82,9 +82,9 @@ Additionally, I bring **1 year of experience in software testing**, leveraging *
 
 - Architected and deployed secure, scalable **AWS infrastructure** across multiple environments  
 - Built and maintained automated **CI/CD pipelines** using Jenkins and GitHub Actions  
-- Deployed and managed **Kubernetes clusters** using **Helm** and **EKS**  and **MINIKUBE**
+- Deployed and managed **Kubernetes clusters** using **Helm**, **EKS**, and **Minikube**  
 - Implemented centralized logging and monitoring with **Prometheus** and **Grafana**  
-- Delivered high-quality releases by integrating **Automated Testing** into DevOps workflows  
+- Delivered high-quality releases by integrating **automated testing** into DevOps workflows  
 
 ---
 
@@ -95,4 +95,4 @@ Additionally, I bring **1 year of experience in software testing**, leveraging *
 
 ---
 
-🚀 _“Always learning, always building!”_
+<p align="center"><strong>🚀 “Always learning, always building!”</strong></p>
