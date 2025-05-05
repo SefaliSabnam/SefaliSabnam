@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnk5cXQyYnFncnN6bm9sOHFqY25zc2NlZ2dtOXRwamV0eDkyZWJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Cool Hacker GIF">
 </p>
-# Hey, I'm *Sefali Sharon Sabnam*..!!
+###
+#Hey, I'm *Sefali Sharon Sabnam*..!!
+
 # 👨‍💻 Senior AWS DevOps & Cloud Engineer
 
 DevOps and Cloud Professional with over **6 years of experience** in architecting, automating, and optimizing cloud infrastructure to support fast-paced, high-performance development environments. Proven expertise in designing **scalable systems on AWS** and automating deployments using **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**.
