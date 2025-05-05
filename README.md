@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.gif" alt="Hacker GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnk5cXQyYnFncnN6bm9sOHFqY25zc2NlZ2dtOXRwamV0eDkyZWJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Cool Hacker GIF">
 </p>
 # 👨‍💻 Senior AWS DevOps & Cloud Engineer
 
