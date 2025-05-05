@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.gif" alt="Hacker GIF" />
+</p>
 # 👨‍💻 Senior AWS DevOps & Cloud Engineer
 
 DevOps and Cloud Professional with over **6 years of experience** in architecting, automating, and optimizing cloud infrastructure to support fast-paced, high-performance development environments. Proven expertise in designing **scalable systems on AWS** and automating deployments using **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**.
