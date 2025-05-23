@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm *Sefali Sharon Sabnam*..!!
 
-## 👨‍💻 Senior AWS DevOps & Cloud Engineer
+## 👨‍💻 Senior Cloud DevOps Engineer
 
 DevOps and Cloud Professional with over **6 years of experience** in architecting, automating, and optimizing cloud infrastructure to support fast-paced, high-performance development environments. Proven expertise in designing **scalable systems on AWS** and automating deployments using **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**.
 
@@ -16,14 +16,14 @@ Additionally, I bring **1 year of experience in software testing**, leveraging *
 
 ## 🧑‍💼 Professional Experience
 
-### 🔹 Senior AWS DevOps Engineer  
+### 🔹 Senior Cloud DevOps Engineer  
 **LIKEDIN SERVICES PRIVATE LTD** *(Dec 2023 – Present · Bengaluru, India · Hybrid)*  
 - Managing cloud infrastructure using AWS services  
 - Automating deployments using Terraform and Jenkins  
 - Monitoring with Prometheus and Grafana  
 - Working on container orchestration using Kubernetes and Helm  
 
-### 🔹 Cloud Development Engineer  
+### 🔹 Cloud DevOps Engineer  
 **CONCENTRIX** *(May 2022 – Dec 2023 · Bengaluru, India · On-site)*  
 - Delivered cloud-native solutions using AWS and CloudWatch  
 - Developed CI/CD pipelines for high-availability applications  
