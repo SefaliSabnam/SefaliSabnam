@@ -17,25 +17,25 @@ Additionally, I bring **1 year of experience in software testing**, leveraging *
 ## 🧑‍💼 Professional Experience
 
 ### 🔹 Senior AWS DevOps Engineer  
-**VSM INFOTECH PRIVATE LTD** *(Dec 2023 – Present · Bengaluru, India · Hybrid)*  
+**LIKEDIN SERVICES PRIVATE LTD** *(Dec 2023 – Present · Bengaluru, India · Hybrid)*  
 - Managing cloud infrastructure using AWS services  
 - Automating deployments using Terraform and Jenkins  
 - Monitoring with Prometheus and Grafana  
 - Working on container orchestration using Kubernetes and Helm  
 
 ### 🔹 Cloud Development Engineer  
-**Concentrix** *(May 2022 – Dec 2023 · Bengaluru, India · On-site)*  
+**CONCENTRIX** *(May 2022 – Dec 2023 · Bengaluru, India · On-site)*  
 - Delivered cloud-native solutions using AWS and CloudWatch  
 - Developed CI/CD pipelines for high-availability applications  
 - Supported scalable deployments using Docker and Terraform  
 
 ### 🔹 Associate DevOps Engineer  
-**RJ Winsys Technologies Pvt Ltd** *(Nov 2019 – May 2022 · Bengaluru, India · Hybrid)*  
+**TANAMA SOFTWARE PRIVATE LIMITED** *(Nov 2019 – May 2022 · Bengaluru, India · Hybrid)*  
 - Worked with Amazon VPC, EC2, and CloudWatch  
 - Developed IaC using Terraform and managed automated testing environments  
 
 ### 🔹 Software Test Engineer  
-**RJ Winsys Technologies Pvt Ltd** *(Nov 2018 – Nov 2019 · On-site)*  
+**TANAMA SOFTWARE PRIVATE LIMITED** *(Nov 2018 – Nov 2019 · On-site)*  
 - Performed test automation using Selenium and TestNG  
 - Conducted functional and regression testing within Agile teams  
 
