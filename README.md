@@ -90,7 +90,7 @@ Additionally, I bring **1 year of experience in software testing**, leveraging *
 
 ## 📬 Contact
 
-📧 **Email**: `your.email@example.com`  
+📧 **Email**: `sefalisharonsabnam@gmail.com`  
 🔗 **LinkedIn**: [sefali-sharon-sabnam](https://www.linkedin.com/in/sefali-sharon-sabnam)
 
 ---
