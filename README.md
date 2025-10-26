@@ -46,6 +46,12 @@ With a solid foundation in **quality assurance**, I approach problem-solving wit
 
 ---
 
+### 🗄️ Database
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle 11g](https://img.shields.io/badge/Oracle%2011g-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
 ### 📈 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-e6522c?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-f46800?style=for-the-badge&logo=grafana&logoColor=white)
