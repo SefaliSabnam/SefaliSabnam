@@ -6,10 +6,10 @@
 
 ## 👋 About Me  
 
-I am a **Cloud and DevOps professional** focused on architecting, automating, and optimizing **cloud infrastructure** for high-performance environments.  
-I specialize in designing **scalable systems on AWS** and automating deployments using **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**.  
+I am a **Cloud, DevOps, and Artificial Intelligence professional** focused on architecting, automating, and optimizing **cloud infrastructure** for high-performance environments.  
+I specialize in designing **scalable systems on AWS** and automating deployments using **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**, while also exploring and building **AI-driven solutions**.  
 
-Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (IaC)**, and delivering **cloud-native solutions** with a strong emphasis on **availability**, **scalability**, and **security**.  
+Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (IaC)**, and delivering **cloud-native solutions** with a strong emphasis on **availability**, **scalability**, **security**, and **intelligent automation**.  
 
 With a solid foundation in **quality assurance**, I approach problem-solving with both a **technical mindset** and an **end-user perspective**.
 
@@ -19,6 +19,8 @@ With a solid foundation in **quality assurance**, I approach problem-solving wit
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-EC2%2FS3%2FRDS%2FIAM%2FVPC%2FCloudWatch-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6a1b9a?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0f1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -27,6 +29,7 @@ With a solid foundation in **quality assurance**, I approach problem-solving wit
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Red%20Hat-black?style=for-the-badge&logo=redhat&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ---
 
@@ -60,7 +63,8 @@ With a solid foundation in **quality assurance**, I approach problem-solving wit
 
 ## 🏆 Key Highlights
 
-- Architected and deployed secure, scalable **AWS infrastructure** across multiple environments  
+- Architected and deployed secure, scalable **AWS infrastructure** across multiple environments
+- Exploring and building **AI and machine learning solutions** to enhance automation and intelligent decision-making  
 - Built and maintained automated **CI/CD pipelines** using Jenkins and GitHub Actions  
 - Deployed and managed **Kubernetes clusters** using **Helm**, **EKS**, and **Minikube**  
 - Implemented centralized logging and monitoring with **Prometheus** and **Grafana**  
