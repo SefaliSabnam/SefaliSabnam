@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnk5cXQyYnFncnN6bm9sOHFqY25zc2NlZ2dtOXRwamV0eDkyZWJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Cool Hacker GIF">
+  <img src="./assets/google-flow-demo.gif" width="850" alt="Sefali Sharon Sabnam AI Demo">
 </p>
 
 # 👋 Hey, I'm *Sefali Sharon Sabnam*..!!
@@ -29,7 +29,6 @@ With a solid foundation in **quality assurance**, I approach problem-solving wit
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Red%20Hat-black?style=for-the-badge&logo=redhat&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white)
-
 
 ---
 
