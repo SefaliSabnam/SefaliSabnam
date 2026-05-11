@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Ultra-realistic_futuristic_corporate_AI_office_animation.___Professional_young_woman_sitting_at_a_m_seed2107784840.gif" width="900" alt="AI Demo">
+  <img src="google-flow-demo.gif.gif" width="900" alt="AI Demo">
 </p>
 
 # 👋 Hey, I'm *Sefali Sharon Sabnam*..!!
