@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="google-flow-demo.gif.gif" width="900" alt="AI Demo">
-</p>
-
 <h1 align="center">
   Hi 👋, I'm Sefali Sharon Sabnam
 </h1>
@@ -9,6 +5,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;LLM+%26+Generative+AI+Explorer" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="google-flow-demo.gif.gif" width="900" alt="AI Demo">
+</p>
+
+
 
 ## 👋 About Me  
 
