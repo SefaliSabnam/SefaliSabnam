@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="SEFALI.gif" width="900" alt="AI Demo">
+  <img src="SEFALI.gif.gif" width="900" alt="AI Demo">
 </p>
 
 
