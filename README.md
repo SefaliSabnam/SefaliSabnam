@@ -6,12 +6,17 @@
 
 ## 👋 About Me  
 
-I am a **Cloud, DevOps, and Artificial Intelligence professional** focused on architecting, automating, and optimizing **cloud infrastructure** for high-performance environments.  
-I specialize in designing **scalable systems on AWS** and automating deployments using **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**, while also exploring and building **AI-driven solutions**.  
+I am an **Artificial Intelligence, Cloud, and DevOps professional** focused on architecting, automating, and optimizing **cloud infrastructure** for high-performance environments.  
+
+I specialize in designing **scalable systems on AWS** and automating deployments using **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**, while also building **AI-driven applications**, working with **Large Language Models (LLMs)**, and developing intelligent automation solutions.  
+
+Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (IaC)**, and delivering **cloud-native solutions** with a strong emphasis on **availability**, **scalability**, **security**, and **automation**.  
+
+I am passionate about integrating **Generative AI and LLM-powered technologies** into modern applications to create innovative and real-world AI solutions.  
+
+With a solid foundation in **quality assurance**, I approach problem-solving with both a **technical mindset** and an **end-user perspective**.  
 
 Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (IaC)**, and delivering **cloud-native solutions** with a strong emphasis on **availability**, **scalability**, **security**, and **intelligent automation**.  
-
-With a solid foundation in **quality assurance**, I approach problem-solving with both a **technical mindset** and an **end-user perspective**.
 
 ---
 
