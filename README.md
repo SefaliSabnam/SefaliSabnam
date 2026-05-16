@@ -17,7 +17,7 @@
 
 <td align="center" width="50%">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="200" alt="Google Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="180"/>
 
 ### Google AI Certifications
 
@@ -33,7 +33,7 @@
 
 <td align="center" width="50%">
 
-<img src="https://seeklogo.com/images/A/anthropic-logo-866c4c0c5d-seeklogo.com.png" width="200" alt="Anthropic Logo"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/anthropic-color.png" width="180"/>
 
 ### Anthropic Certifications
 
