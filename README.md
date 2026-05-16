@@ -87,7 +87,11 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 
 ## ⚙️ Tech Stack & Tools
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning  
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="140" alt="AI Robot"/>
+</p>
+
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6a1b9a?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8e24aa?style=for-the-badge&logo=googlebard&logoColor=white)
