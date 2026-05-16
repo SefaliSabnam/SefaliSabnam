@@ -34,7 +34,7 @@
 
 <td align="center" width="33%">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Anthropic_logo.svg/512px-Anthropic_logo.svg.png" width="120"/>
+<img src="anthropic.jpeg" width="120"/>
 
 ### Anthropic Certifications
 
@@ -48,7 +48,7 @@
 
 <td align="center" width="33%">
 
-<img src="https://nareshit.com/wp-content/uploads/2018/08/naresh-it-logo.png" width="180"/>
+<img src="naresh.jpeg" width="180"/>
 
 ### Naresh i Technologies Certifications
 
