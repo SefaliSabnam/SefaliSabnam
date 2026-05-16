@@ -16,7 +16,7 @@
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="180"/>
 
@@ -32,9 +32,9 @@
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-<img src="https://cdn.simpleicons.org/anthropic" width="180"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Anthropic_logo.svg/512px-Anthropic_logo.svg.png" width="120"/>
 
 ### Anthropic Certifications
 
@@ -46,15 +46,14 @@
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 <img src="https://nareshit.com/wp-content/uploads/2018/08/naresh-it-logo.png" width="180"/>
 
-### Naresh i Technologies Certifications
+### Naresh i Technologies
 
 ✔ Selenium Automation Testing  
 ✔ Test Automation Frameworks  
-✔ Manual & Automation Testing  
 ✔ TestNG & Cucumber  
 ✔ Agile Testing Concepts  
 
@@ -62,6 +61,7 @@
 
 </tr>
 </table>
+
 
 ---
 
