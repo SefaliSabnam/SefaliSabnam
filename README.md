@@ -26,44 +26,9 @@ With a solid foundation in **quality assurance**, I approach problem-solving wit
 Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (IaC)**, and delivering **cloud-native solutions** with a strong emphasis on **availability**, **scalability**, **security**, and **intelligent automation**.  
 
 ---
----
 
-## 🏆 Certifications
 
-<table>
-<tr>
 
-<td align="center" width="50%">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="180"/>
-
-### Google AI Certifications
-
-✔ AI Fundamentals  
-✔ AI for Brainstorming and Planning  
-✔ AI for Research and Insights  
-✔ AI for Writing and Communicating  
-✔ AI for Content Creation  
-✔ AI for Data Analysis  
-✔ AI for App Building  
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="https://cdn.simpleicons.org/anthropic" width="180"/>
-
-### Anthropic Certifications
-
-✔ Building with the Claude API  
-✔ Claude 101  
-✔ Claude Code in Action  
-✔ AI Fluency: Framework & Foundations  
-✔ AI Fluency for Students  
-
-</td>
-
----
 ## ⚙️ Tech Stack & Tools
 
 ### ☁️ Cloud & DevOps
@@ -117,6 +82,42 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 - Deployed and managed **Kubernetes clusters** using **Helm**, **EKS**, and **Minikube**  
 - Implemented centralized logging and monitoring with **Prometheus** and **Grafana**  
 - Delivered high-quality releases by integrating **automated testing** into DevOps workflows  
+
+---
+## 🏆 Certifications
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="180"/>
+
+### Google AI Certifications
+
+✔ AI Fundamentals  
+✔ AI for Brainstorming and Planning  
+✔ AI for Research and Insights  
+✔ AI for Writing and Communicating  
+✔ AI for Content Creation  
+✔ AI for Data Analysis  
+✔ AI for App Building  
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://cdn.simpleicons.org/anthropic" width="180"/>
+
+### Anthropic Certifications
+
+✔ Building with the Claude API  
+✔ Claude 101  
+✔ Claude Code in Action  
+✔ AI Fluency: Framework & Foundations  
+✔ AI Fluency for Students  
+
+</td>
 
 ---
 
