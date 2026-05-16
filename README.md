@@ -101,7 +101,11 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 
 ---
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps  
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149676.png" width="140" alt="Cloud Robot"/>
+</p>
+
 ![AWS](https://img.shields.io/badge/AWS-EC2%2FS3%2FRDS%2FIAM%2FVPC%2FCloudWatch-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0f1689?style=for-the-badge&logo=helm&logoColor=white)
@@ -114,14 +118,22 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 
 ---
 
-### 🛠️ Programming & Automation
+### 🛠️ Programming & Automation  
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2881/2881142.png" width="140" alt="Coding Robot"/>
+</p>
+
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-yellow?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-### 🧪 Testing & Agile
+### 🧪 Testing & Agile  
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="140" alt="Testing Robot"/>
+</p>
+
 ![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-ff7f50?style=for-the-badge)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23d96c?style=for-the-badge)
@@ -130,13 +142,21 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 
 ---
 
-### 🗄️ Database
+### 🗄️ Database  
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="140" alt="Database Robot"/>
+</p>
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle 11g](https://img.shields.io/badge/Oracle%2011g-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-### 📈 Monitoring & Observability
+### 📈 Monitoring & Observability  
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="140" alt="Monitoring Robot"/>
+</p>
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-e6522c?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-f46800?style=for-the-badge&logo=grafana&logoColor=white)
 
