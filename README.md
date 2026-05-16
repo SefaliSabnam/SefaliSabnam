@@ -14,9 +14,10 @@
 
 <table>
 <tr>
+
 <td align="center" width="50%">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="180" alt="Google Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="200" alt="Google Logo"/>
 
 ### Google AI Certifications
 
@@ -32,7 +33,7 @@
 
 <td align="center" width="50%">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Anthropic_logo.svg" width="220" alt="Anthropic Logo"/>
+<img src="https://seeklogo.com/images/A/anthropic-logo-866c4c0c5d-seeklogo.com.png" width="200" alt="Anthropic Logo"/>
 
 ### Anthropic Certifications
 
@@ -43,6 +44,7 @@
 ✔ AI Fluency for Students  
 
 </td>
+
 </tr>
 </table>
 
