@@ -88,9 +88,7 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 ## ⚙️ Tech Stack & Tools
 
 ### 🤖 Artificial Intelligence & Machine Learning  
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/futuristic-ai-robot-with-neon-lighting_31965-10234.jpg" width="420" alt="Futuristic AI Robot"/>
-</p>
+![AI Robot](https://img.shields.io/badge/🤖%20Futuristic%20AI%20Robot-6a1b9a?style=for-the-badge)
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6a1b9a?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -102,9 +100,7 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 ---
 
 ### ☁️ Cloud & DevOps  
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/futuristic-cloud-computing-devops-concept-with-robot_31965-18564.jpg" width="420" alt="Cloud DevOps Robot"/>
-</p>
+![Cloud DevOps Robot](https://img.shields.io/badge/☁️⚙️%20Cloud%20%26%20DevOps-0d47a1?style=for-the-badge)
 
 ![AWS](https://img.shields.io/badge/AWS-EC2%2FS3%2FRDS%2FIAM%2FVPC%2FCloudWatch-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -119,9 +115,7 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 ---
 
 ### 🛠️ Programming & Automation  
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/humanoid-robot-coding-futuristic-programming-screen_31965-12077.jpg" width="420" alt="Programming Robot"/>
-</p>
+![Coding Robot](https://img.shields.io/badge/💻🤖%20Programming%20Robot-1565c0?style=for-the-badge)
 
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-yellow?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -130,9 +124,7 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 ---
 
 ### 🧪 Testing & Agile  
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/robot-software-testing-automation-concept_31965-19487.jpg" width="420" alt="Testing Automation Robot"/>
-</p>
+![Testing Robot](https://img.shields.io/badge/🧪🤖%20Testing%20Automation-2e7d32?style=for-the-badge)
 
 ![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-ff7f50?style=for-the-badge)
@@ -143,9 +135,7 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 ---
 
 ### 🗄️ Database  
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/futuristic-data-center-ai-robot-database-management_31965-22876.jpg" width="420" alt="Database Robot"/>
-</p>
+![Database Robot](https://img.shields.io/badge/🗄️🤖%20Database%20Systems-c62828?style=for-the-badge)
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle 11g](https://img.shields.io/badge/Oracle%2011g-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -153,14 +143,12 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 ---
 
 ### 📈 Monitoring & Observability  
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/futuristic-monitoring-dashboard-ai-robot-analytics_31965-21145.jpg" width="420" alt="Monitoring Robot"/>
-</p>
+![Monitoring Robot](https://img.shields.io/badge/📊🤖%20Monitoring%20%26%20Observability-f57c00?style=for-the-badge)
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-e6522c?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-f46800?style=for-the-badge&logo=grafana&logoColor=white)
 
----
+
 ---
 
 ## 🏆 Key Highlights
