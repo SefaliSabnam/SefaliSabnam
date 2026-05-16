@@ -87,9 +87,17 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 
 ## ⚙️ Tech Stack & Tools
 
-### ☁️ Cloud & DevOps
+### 🤖 Artificial Intelligence & Machine Learning
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6a1b9a?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8e24aa?style=for-the-badge&logo=googlebard&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-3949ab?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00897b?style=for-the-badge)
+![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation-5e35b1?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-EC2%2FS3%2FRDS%2FIAM%2FVPC%2FCloudWatch-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0f1689?style=for-the-badge&logo=helm&logoColor=white)
