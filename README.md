@@ -46,6 +46,20 @@
 
 </td>
 
+<td align="center" width="50%">
+
+<img src="https://nareshit.com/wp-content/uploads/2018/08/naresh-it-logo.png" width="180"/>
+
+### Naresh i Technologies Certifications
+
+✔ Selenium Automation Testing  
+✔ Test Automation Frameworks  
+✔ Manual & Automation Testing  
+✔ TestNG & Cucumber  
+✔ Agile Testing Concepts  
+
+</td>
+
 </tr>
 </table>
 
