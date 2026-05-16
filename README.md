@@ -100,7 +100,7 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 ---
 
 ### ☁️ Cloud & DevOps
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/4149/4149647.png" width="70"/>
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/4149/4149679.png" width="70"/>
 
 ![AWS](https://img.shields.io/badge/AWS-EC2%2FS3%2FRDS%2FIAM%2FVPC%2FCloudWatch-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
