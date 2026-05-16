@@ -125,4 +125,4 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 
 
 ---
-<p align="center"><strong> “Always learning, always building!”</strong></p>
+<p align="center"><strong> “Always learning, Always building!”</strong></p>
