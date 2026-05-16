@@ -33,7 +33,7 @@
 
 <td align="center" width="50%">
 
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/anthropic-color.png" width="180"/>
+<img src="https://cdn.simpleicons.org/anthropic" width="180"/>
 
 ### Anthropic Certifications
 
@@ -44,9 +44,6 @@
 ✔ AI Fluency for Students  
 
 </td>
-
-</tr>
-</table>
 
 ## 👋 About Me  
 
