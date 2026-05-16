@@ -10,6 +10,8 @@
   <img src="SEFALI.gif.gif" width="900" alt="AI Demo">
 </p>
 
+---
+
 ## 🏆 Certifications
 
 <table>
@@ -44,6 +46,8 @@
 ✔ AI Fluency for Students  
 
 </td>
+
+---
 
 ## 👋 About Me  
 
