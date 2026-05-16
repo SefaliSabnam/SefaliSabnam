@@ -119,6 +119,9 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 
 </td>
 
+</tr>
+</table>
+
 ---
 
 <p align="center"><strong> “Always learning, always building!”</strong></p>
