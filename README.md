@@ -80,11 +80,17 @@
 
 ## 👋 About Me  
 
+I am a **Google AI Certified** professional, having completed certifications in **AI Fundamentals**, **AI for Brainstorming and Planning**, **AI for Research and Insights**, **AI for Writing and Communicating**, **AI for Content Creation**, **AI for Data Analysis**, and **AI for App Building**, strengthening my expertise in **Generative AI, AI productivity tools, intelligent application development, and modern AI workflows**.
+
+I am also **Anthropic AI Certified**, completing **Building with the Claude API**, **Claude 101**, **Claude Code in Action**, **AI Fluency: Framework & Foundations**, and **AI Fluency for Students**, expanding my expertise in **Large Language Models (LLMs), AI systems, and modern AI application development**.
+
+Additionally, I hold the **AI Prompt Engineering Intensive** certification from **AI ALIA – SOFTECH System & Solution**, validating my expertise in **Prompt Engineering, Generative AI, AI-assisted workflows, Large Language Models (LLMs), and real-world AI solution development**.
+
+🏆 I was honored with the **Best Prompt Engineer Award** by **AI ALIA – SOFTECH System & Solution** in recognition of **innovation, technical excellence, and outstanding performance in AI Prompt Engineering**.
+
 I am an **Artificial Intelligence, Cloud, and DevOps professional** focused on architecting, automating, and optimizing **cloud infrastructure** for high-performance environments.  
 
 I specialize in designing **scalable systems on AWS** and automating deployments using **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**, while also building **AI-driven applications**, working with **Large Language Models (LLMs)**, and developing intelligent automation solutions.  
-
-Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (IaC)**, and delivering **cloud-native solutions** with a strong emphasis on **availability**, **scalability**, **security**, and **automation**.  
 
 I am passionate about integrating **Generative AI and LLM-powered technologies** into modern applications to create innovative and real-world AI solutions.  
 
