@@ -24,7 +24,7 @@
 
 🏆 **Best Prompt Engineer Award**
 
-**AI Prompt Engineering Intensive**
+✔ **AI Prompt Engineering Intensive**
 
 </td>
 
