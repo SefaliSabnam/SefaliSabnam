@@ -13,6 +13,17 @@
 ---
 ## 🏆 Certifications
 
+<td align="center" width="25%">
+
+<img src="aialia.png" width="160"/>
+
+### AI ALIA – SOFTECH System & Solution
+
+ **Best Prompt Engineer Award**
+
+ **AI Prompt Engineering Intensive**
+
+</td>
 <table>
 <tr>
 
