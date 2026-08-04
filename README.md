@@ -20,7 +20,7 @@
 
 <img src="aialia.png" width="150"/>
 
-### AI ALIA – SOFTECH System & Solution
+### AI ALIA 
 
 🏆 **Best Prompt Engineer Award**
 
@@ -84,9 +84,9 @@ I am a **Google AI Certified** professional, having completed certifications in 
 
 I am also **Anthropic AI Certified**, completing **Building with the Claude API**, **Claude 101**, **Claude Code in Action**, **AI Fluency: Framework & Foundations**, and **AI Fluency for Students**, expanding my expertise in **Large Language Models (LLMs), AI systems, and modern AI application development**.
 
-Additionally, I hold the **AI Prompt Engineering Intensive** certification from **AI ALIA – SOFTECH System & Solution**, validating my expertise in **Prompt Engineering, Generative AI, AI-assisted workflows, Large Language Models (LLMs), and real-world AI solution development**.
+Additionally, I hold the **AI Prompt Engineering Intensive** certification from **AI ALIA**, validating my expertise in **Prompt Engineering, Generative AI, AI-assisted workflows, Large Language Models (LLMs), and real-world AI solution development**.
 
-🏆 I was honored with the **Best Prompt Engineer Award** by **AI ALIA – SOFTECH System & Solution** in recognition of **innovation, technical excellence, and outstanding performance in AI Prompt Engineering**.
+🏆 I was honored with the **Best Prompt Engineer Award** by **AI ALIA** in recognition of **innovation, technical excellence, and outstanding performance in AI Prompt Engineering**.
 
 I am an **Artificial Intelligence, Cloud, and DevOps professional** focused on architecting, automating, and optimizing **cloud infrastructure** for high-performance environments.  
 
