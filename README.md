@@ -187,5 +187,8 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
----
+
+<a href="https://www.linkedin.com/in/sefali-sharon-sabnam/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <p align="center"><strong> “Always learning, Always building!”</strong></p>
