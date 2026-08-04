@@ -31,56 +31,49 @@
 <td align="center" width="25%">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="180"/>
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="180"/>
 
 ### Google AI Certifications
 
-✔ AI Fundamentals  
-✔ AI for Brainstorming and Planning  
-✔ AI for Research and Insights  
-✔ AI for Writing and Communicating  
-✔ AI for Content Creation  
-✔ AI for Data Analysis  
-✔ AI for App Building  
+✔ AI Fundamentals<br>
+✔ AI for Brainstorming and Planning<br>
+✔ AI for Research and Insights<br>
+✔ AI for Writing and Communicating<br>
+✔ AI for Content Creation<br>
+✔ AI for Data Analysis<br>
+✔ AI for App Building
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <img src="anthropic.jpeg" width="120"/>
 
 ### Anthropic Certifications
 
-✔ Building with the Claude API  
-✔ Claude 101  
-✔ Claude Code in Action  
-✔ AI Fluency: Framework & Foundations  
-✔ AI Fluency for Students  
+✔ Building with the Claude API<br>
+✔ Claude 101<br>
+✔ Claude Code in Action<br>
+✔ AI Fluency: Framework & Foundations<br>
+✔ AI Fluency for Students
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <img src="naresh.jpeg" width="180"/>
 
 ### Naresh i Technologies Certifications
 
-✔ Selenium Automation Testing  
-✔ Test Automation Frameworks  
-✔ TestNG & Cucumber  
-✔ Agile Testing Concepts  
-✔ Manual & Automation Testing  
+✔ Selenium Automation Testing<br>
+✔ Test Automation Frameworks<br>
+✔ TestNG & Cucumber<br>
+✔ Agile Testing Concepts<br>
+✔ Manual & Automation Testing
 
 </td>
 
 </tr>
 </table>
-
 
 
 ---
