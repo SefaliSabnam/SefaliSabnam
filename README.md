@@ -44,7 +44,7 @@
 
 <td align="center" width="25%">
 
-<img src="ai-concepts-certificate.png" width="180"/>
+<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" width="180"/>
 
 ### Udemy Certification
 
@@ -54,6 +54,8 @@
 ✔ Intelligent Systems<br>
 ✔ Quantum AI<br>
 ✔ Foundations of Modern AI
+
+</td>
 
 </td>
 </td>
