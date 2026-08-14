@@ -42,6 +42,20 @@
 ✔ AI for Data Analysis<br>
 ✔ AI for App Building
 
+<td align="center" width="25%">
+
+<img src="ai-concepts-certificate.png" width="180"/>
+
+### Udemy Certification
+
+✔ **AI Concepts & Intelligent Systems: Foundations for Beginners**<br>
+✔ Artificial Intelligence Fundamentals<br>
+✔ Machine Learning & Deep Learning<br>
+✔ Intelligent Systems<br>
+✔ Quantum AI<br>
+✔ Foundations of Modern AI
+
+</td>
 </td>
 
 <td align="center" width="25%">
