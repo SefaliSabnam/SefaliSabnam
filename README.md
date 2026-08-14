@@ -44,7 +44,7 @@
 
 <td align="center" width="25%">
 
-<img src="udemy-white.png" width="180"/>
+<img src="Udemy_logo.svg" width="180"/>
 
 ### Udemy Certification
 
@@ -55,9 +55,6 @@
 ✔ Quantum AI<br>
 ✔ Foundations of Modern AI
 
-
-
-</td>
 </td>
 
 <td align="center" width="25%">
