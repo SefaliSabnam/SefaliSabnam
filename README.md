@@ -97,6 +97,10 @@ I am a **Google AI Certified** professional, having completed certifications in 
 
 I am also **Anthropic AI Certified**, completing **Building with the Claude API**, **Claude 101**, **Claude Code in Action**, **AI Fluency: Framework & Foundations**, and **AI Fluency for Students**, expanding my expertise in **Large Language Models (LLMs), AI systems, and modern AI application development**.
 
+I have also completed the **Udemy certification, “AI Concepts & Intelligent Systems: Foundations”** strengthening my understanding of **Artificial Intelligence, Machine Learning, Deep Learning, Intelligent Systems, and Quantum AI**.
+
+This certification further strengthens my foundation in **modern AI concepts and emerging intelligent technologies**, supporting my journey in **AI, Generative AI, and intelligent application development**.
+
 Additionally, I hold the **AI Prompt Engineering Intensive** certification from **AI ALIA**, validating my expertise in **Prompt Engineering, Generative AI, AI-assisted workflows, Large Language Models (LLMs), and real-world AI solution development**.
 
 🏆 I was honored with the **Best Prompt Engineer Award** by **AI ALIA** in recognition of **innovation, technical excellence, and outstanding performance in AI Prompt Engineering**.
