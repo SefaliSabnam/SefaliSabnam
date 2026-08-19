@@ -48,6 +48,9 @@
 
 ### Udemy Certification
 
+✔ **C Programming for AI Developers**<br>
+✔ C Programming<br>
+✔ AI Development Applications
 ✔ **AI Concepts & Intelligent Systems: Foundations for Beginners**<br>
 ✔ Artificial Intelligence Fundamentals<br>
 ✔ Machine Learning & Deep Learning<br>
