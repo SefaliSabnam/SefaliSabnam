@@ -51,12 +51,12 @@
 ✔ **C Programming for AI Developers**<br>
 ✔ C Programming<br>
 ✔ AI Development Applications
+
 ✔ **AI Concepts & Intelligent Systems: Foundations for Beginners**<br>
 ✔ Artificial Intelligence Fundamentals<br>
 ✔ Machine Learning & Deep Learning<br>
-✔ Intelligent Systems<br>
 ✔ Quantum AI<br>
-✔ Foundations of Modern AI
+
 
 </td>
 
