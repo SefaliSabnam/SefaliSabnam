@@ -155,6 +155,7 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 ### 🛠️ Programming & Automation
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/2881/2881142.png" width="70"/>
 
+![C Programming](https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-yellow?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
