@@ -206,18 +206,35 @@ Skilled in implementing **CI/CD pipelines**, managing **Infrastructure as Code (
 <p align="left">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sefali-sharon-sabnam/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sefali-sharon-sabnam/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="60"
+      height="60"
+      alt="LinkedIn"
+    />
   </a>
+  &nbsp;&nbsp;
 
   <!-- Portfolio -->
-  <a href="https://sefalisabnam.github.io/Sefali-Sabnam/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=chrome" alt="Portfolio" />
+  <a href="https://sefalisabnam.github.io/Sefali-Sabnam/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/googlechrome/00C7FF"
+      width="60"
+      height="60"
+      alt="Portfolio"
+    />
   </a>
+  &nbsp;&nbsp;
 
   <!-- Gmail -->
   <a href="mailto:sefalisabnam026@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="60"
+      height="60"
+      alt="Gmail"
+    />
   </a>
 
 </p>
